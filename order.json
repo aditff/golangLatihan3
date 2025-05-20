@@ -1,0 +1,26 @@
+[
+  {
+    "id": "53b14161-7f74-4b92-b227-3e3c510da4e6",
+    "name": "adit",
+    "destination": "Jakarta",
+    "price": 150000
+  },
+  {
+    "id": "d88a8211-fa79-4fd0-a4f3-86486393dce7",
+    "name": "kit",
+    "destination": "Surabaya",
+    "price": 200000
+  },
+  {
+    "id": "fa67e5dc-72b7-4035-9f17-7796d6230ea5",
+    "name": "adit",
+    "destination": "Surabaya",
+    "price": 200000
+  },
+  {
+    "id": "295d9460-0e43-470b-bbd4-406d79605e38",
+    "name": "kita",
+    "destination": "Bandung",
+    "price": 170000
+  }
+]
